@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+      <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler,Log4net"/>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="irrigoSystem.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+  
+    <connectionStrings>
+        <add name="Serial.Properties.Settings.Database1ConnectionString"
+            connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="Serial.Properties.Settings.DadosSensoresConnectionString"
+            connectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=&quot;|DataDirectory|\DadosSensores.mdf&quot;;Integrated Security=True;Connect Timeout=30;User Instance=True"
+            providerName="System.Data.SqlClient" />
+        <add name="Serial.Properties.Settings.CALIBRACAOConnectionString"
+            connectionString="Data Source=|DataDirectory|\CALIBRACAO.sdf"
+            providerName="Microsoft.SqlServerCe.Client.3.5" />
+        <add name="Serial.Properties.Settings.BancoUmidadeConnectionString"
+            connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\BancoUmidade.mdf;Integrated Security=True;Connect Timeout=30"
+            providerName="System.Data.SqlClient" />
+        <add name="irrigoSystem.Properties.Settings.DadosSensoresConnectionString"
+            connectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=&quot;|DataDirectory|\DadosSensores.mdf&quot;;Integrated Security=True;Connect Timeout=30;User Instance=True"
+            providerName="System.Data.SqlClient" />
+        <add name="irrigoSystem.Properties.Settings.CALIBRACAOConnectionString"
+            connectionString="Data Source=|DataDirectory|\CALIBRACAO.sdf"
+            providerName="Microsoft.SqlServerCe.Client.3.5" />
+        <add name="irrigoSystem.Properties.Settings.Database1ConnectionString"
+            connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="irrigoSystem.Properties.Settings.BancoUmidadeConnectionString"
+            connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\BancoUmidade.mdf;Integrated Security=True;Connect Timeout=30"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+
+    <!-- Configurações de LOG -->
+    <log4net>
+      <root>
+        <level value="DEBUG"/>
+        <appender-ref ref="LogFileAppender"/>
+      </root>
+      <appender name="LogFileAppender" type="log4net.Appender.RollingFileAppender">
+        <param name="File" value="c:\logs\irrigosystem.log"/>
+        <param name="AppendToFile" value="true"/>
+        <rollingStyle value="Size"/>
+        <maxSizeRollBackups value="10"/>
+        <maximumFileSize value="10MB"/>
+        <staticLogFileName value="true"/>
+        <layout type="log4net.Layout.PatternLayout">
+          <header value="&#xD;&#xA;"
+ />
+          <footer value="&#xD;&#xA;"
+ />
+          <param name="ConversionPattern" value="%-5p%d{dd-MM-yyyy HH:mm:ss} – %m%n"/>
+        </layout>
+      </appender>
+    </log4net>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8"/></startup><userSettings>
+        <irrigoSystem.Properties.Settings>
+            <setting name="DontShowWhatsNew" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </irrigoSystem.Properties.Settings>
+    </userSettings>
+</configuration>
