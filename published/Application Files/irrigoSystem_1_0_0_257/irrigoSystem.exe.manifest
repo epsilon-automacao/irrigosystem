@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="irrigoSystem.exe" size="1491968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="irrigoSystem.exe" size="1498624">
       <assemblyIdentity name="irrigoSystem" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gVZas6E4yms/hFHsLoYviT3p6NXtbn9gnLM/3tG8CIA=</dsig:DigestValue>
+        <dsig:DigestValue>SnmayiSIugt3JcExCseJYDXfSfIkh2zhAo3onY/fMN0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8oe1QpRuy1oeWcvtKMekMZakknIWKDt8khs+sYKnfBA=</dsig:DigestValue>
+        <dsig:DigestValue>m3PDO5773btmoqpn6Jedyv+k/C6gIxYbG8Rd3YwjiC0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>nRxlRBHcCHMaaFPdikyGZC7y5hucC79Se3GgrX049gs=</dsig:DigestValue>
+        <dsig:DigestValue>5p249+WlkmIQd79dLTO2HZrovC93IMJr6Mk+nQCoZCo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
