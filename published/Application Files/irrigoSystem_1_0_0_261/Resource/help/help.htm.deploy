@@ -1,0 +1,694 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Palatino Linotype";
+	panose-1:2 4 5 2 5 5 5 3 3 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+h1
+	{mso-style-link:"Título 1 Char";
+	margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	text-indent:-18.0pt;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Palatino Linotype",serif;}
+p.MsoToc1, li.MsoToc1, div.MsoToc1
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	text-indent:-18.0pt;
+	line-height:107%;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	color:#365F91;}
+span.Ttulo1Char
+	{mso-style-name:"Título 1 Char";
+	mso-style-link:"Título 1";
+	font-family:"Palatino Linotype",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-family:"Arial",sans-serif;}
+.MsoPapDefault
+	{line-height:115%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 41.65pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body bgcolor=white lang=PT-BR link=blue vlink=purple style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal><img width=792 height=137 src="help_arquivos/image001.png"
+align=left hspace=18 vspace=18></p>
+
+<b><span style='font-size:14.0pt;line-height:115%;font-family:"Palatino Linotype",serif'><br
+clear=all style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal><b><span style='font-size:14.0pt;line-height:115%;
+font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:14.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<p class=MsoTocHeading><span style='font-family:"Palatino Linotype",serif'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><span
+style='font-family:"Palatino Linotype",serif'>Sumário</span></p>
+
+<p class=MsoToc1><span
+style='font-family:"Palatino Linotype",serif'><span class=MsoHyperlink><a
+href="#_Toc175316431">Calibração por meio de preparação de amostras: modo
+batelada<span style='color:windowtext;display:none;text-decoration:none'>. </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+
+<p class=MsoToc1><span class=MsoHyperlink><span style='font-family:"Palatino Linotype",serif'><a
+href="#_Toc175316432">Instalação da estação em campo<span style='color:windowtext;
+display:none;text-decoration:none'>. </span><span
+style='color:windowtext;display:none;text-decoration:none'>1</span></a></span></span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:14.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:14.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:14.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<h1><a name="_Toc175316431">2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span>Calibração por meio de preparação de amostras: modo batelada</a></h1>
+
+<p class=MsoNormal><b>&nbsp;</b></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<p class=MsoListParagraph style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Instalar
+o software IrrigoSystem </span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Descompactar a pasta do
+programa e clicar em setup:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'><img width=487
+height=145 src="help_arquivos/image002.png"></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Instalar
+o driver do equipamento (ver tutorial junto ao arquivo fornecido pela Épsilon)</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;line-height:
+150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>3.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Ligar
+o equipamento na tomada</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;line-height:
+150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>4.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Conectar
+o cabo USB no computador</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>5.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Abrir
+o software IrrigoSystem</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Na aba Configurações,
+selecione a porta COM e clique em abrir:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'><img width=562
+height=337 src="help_arquivos/image003.png"></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Obs.: <b>o número da
+porta COM é atribuído automaticamente pelo Windows</b>. Provavelmente é
+diferente em computadores diferentes ou em portas USB diferentes em um mesmo
+computador.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>6.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Alterar
+o jumper da placa para a posição Config.</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>7.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Abrir
+a tampa principal do equipamento e identifique o circuito:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'><img width=449
+height=204 id="Imagem 5" src="help_arquivos/image004.jpg"></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<p class=MsoListParagraph style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>8.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Retirar
+o cabo do sensor 1:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'><img width=449
+height=204 id="Imagem 4" src="help_arquivos/image005.jpg"></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<b><span style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'><br
+clear=all style='page-break-before:always'>
+</span></b>
+
+<p class=MsoNormal><b><span style='font-size:12.0pt;line-height:115%;
+font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<p class=MsoListParagraph style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>9.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Retirar
+o jumper:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'><img width=449
+height=204 id="Imagem 3" src="help_arquivos/image006.jpg"></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></b></p>
+
+<p class=MsoListParagraph style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>10.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Inserir
+o jumper na posição Config:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'><img width=449
+height=204 id="Imagem 2" src="help_arquivos/image007.jpg"></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>11.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Reconectar
+o cabo do sensor 1.</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>12.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Cálculo
+da massa total utilizada para preparar as amostras:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>O recipiente de
+calibração possui uma marca interna em aproximadamente 450 mL. Por meio da
+densidade do material, calcule uma quantidade de massa suficiente para encher o
+recipiente e para realizar a contraprova (cerca de 300 g a mais).</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Estipular o número de
+amostras (ou pontos de calibração). É importante cobrir a faixa de medição de
+interesse, que varia de acordo com o material (capacidade de campo e porto de
+murcha) e a aplicação.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Estipular o passo de
+umidade entre amostras (a cada 2% de umidade, por exemplo).</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Calcular a quantidade
+total de material, suficiente para produzir todas as amostras e contraprovas
+estipuladas anteriormente.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Secar todo o material
+numa bandeja metálica a 105°C durante 24h.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Aguardar a estufa
+resfriar e reservar o material em saco plástico.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Separar em sacos
+plásticos menores a quantidade suficiente de cada amostra (e contraprova).</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Adicionar quantidade de
+água suficiente para reproduzir as umidades desejadas dos pontos de calibração
+(usar a planilha para auxiliar).</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Vedar os sacos
+plásticos, misturar a água com o material de forma manual (com o saco plástico
+vedado) e reservar as amostras por 4h (ou mais).</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Obs.: enumerar os sacos
+plásticos de acordo com a planilha.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Encher o recipiente de
+calibração com cada amostra e inserir o sensor de umidade, caso o material seja
+“macio” (como solo arenoso ou substrato). </span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Obs.: caso o material
+seja muito duro ou apresente muitas pedras, como a canga por exemplo, é
+indicado inserir o sensor de umidade no recipiente antes de inserir o material.
+</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Separar a quantidade da
+contraprova num becker de 600 mL e vedá-lo com plástico filme.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Obs.: enumerar os
+beckers de acordo com as amostras.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Pesar o material de
+cada becker e anotar na planilha (<i>Massa contraprova antes (g)</i>).</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Ir na aba Calibração,
+selecionar Batelada e clicar em Iniciar Aquisição.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Digitar a umidade da
+amostra e clicar em Solicitar Medição.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Realizar pelo menos 3
+leituras.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Anotar a média
+Constante Dielétrica Relativa (Er) na planilha.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Repetir o procedimento
+para todas as amostras, lembrando de atualizar a umidade de referência de cada
+amostra no software.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Clique no botão
+Exportar para salvar os dados do experimento.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Obs.: a cada início de
+experimento, exclua os dados do experimento anterior.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Quando finalizar o
+procedimento com todas as amostras é possível ter uma ideia de como o ajuste do
+modelo de regressão irá se comportar.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Atribua um nome para o
+modelo (nome do material)</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Informe o Id do sensor
+utilizado na calibração.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Informe o Intervalo de
+dados que será considerado (Coluna N da Tabela)</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Selecione a ordem do
+modelo de regressão (geralmente é de 3ª ordem)</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Clique em ajustar</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Observe o Coeficiente
+de Determinação (R2) e o gráfico.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Avalie se há
+necessidade de apagar algum dado e/ou repetir a medição de alguma amostra.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraph style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>13.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Determinando
+a Umidade Real Convencional de cada amostra:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Inserir os beckers na
+estufa de secagem a 105°C por 24h (se a umidade for menor que 8%, basta 4h).</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Pesar o material de
+cada becker e anotar na planilha (<i>Massa contraprova depois (g)</i>);</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Gerar o gráfico de
+regressão entre a Constante Dielétrica (eixo x) e a Umidade Real (eixo y).</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>O polinômio gerado deve
+ser utilizado para estimar a umidade do material a partir da Constante
+Dielétrica Relativa.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraph style='text-indent:-18.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>14.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:"Palatino Linotype",serif'>Gerando
+o Modelo de Regressão com o IrrigoSystem:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Na aba Calibração,
+Edite a coluna UmidadeRef da tabela substituindo os valores de umidade
+desejadas pelas umidades reais das contraprovas.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Clique em Sobrescrever.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Configure os parâmetros
+do modelo (Nome, Id do sensor, Intervalo e Ordem) e clique em ajustar.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Clique em Salvar.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Observe se os
+coeficientes do modelo em notação científica são representativos em comparação
+com os coeficientes apresentados em forma decimal. </span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Obs.: Esta
+funcionalidade está em desenvolvimento. Caso não faça sentido, o modelo obtido
+no passo anterior deve ser aplicado de forma manual após a coleta dos dados.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Caso faça sentido, vá
+até a aba Modelo, clique em Atualizar, selecione o modelo que foi armazenado,
+clique em Editar e depois em Gravar.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>O modelo de calibração
+foi gravado no equipamento, que passa a estimar a umidade com a calibração para
+o material específico.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Obs.: como padrão, o
+equipamento usa o modelo de Topp et al. (1980) para estimar a umidade, em base
+volumétrica. O procedimento anterior ajusta os coeficientes do modelo de Topp:</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'><img width=348
+height=33 src="help_arquivos/image008.png"></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>Para configurar o
+equipamento para medir usando o modelo Topp, escreva todos os coeficientes
+iguais a zero e clique em gravar.</span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h1><a name="_Toc175316432">3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+</span>Instalação da estação em campo</a></h1>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'><img width=640 height=288 id="Imagem 2063903380"
+src="help_arquivos/image009.jpg"></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-size:12.0pt;
+line-height:150%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>Faça
+dois buracos no solo usando uma cavadeira (tipo tucano ou trado), um para fixar
+o poste da estação, com cerca de 20 cm, e outro para instalar os sensores.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>Posicione
+os sensores na horizontal, de acordo com a figura a seguir:</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><img width=289 height=641
+id="Imagem 1833619382" src="help_arquivos/image010.jpg"></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>Obs.: Não tente inserir as hastes
+do sensor no solo, pois isso pode danificá-lo.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>Tenha cuidado com os cabos dos
+sensores.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>3.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>Cubra
+o sensor com o solo. </span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>4.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>Pressione
+o solo coma as mãos para acomodar o material em torno do sensor. </span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>5.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>Não
+pode haver pedras entre as hastes do sensor. </span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>6.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>Acomode
+o solo de modo a evitar a ocorrência de espaços vazios ao redor das hastes do
+sensor. As hastes precisam ficar totalmente em contato com o solo.</span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>7.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Palatino Linotype",serif'>Após
+instalar a estação e os sensores, abra a tampa da caixa plástica e conecte o
+fio da bateria no conector tipo alavanca.</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'><img width=491 height=479
+src="help_arquivos/image011.png"></span></p>
+
+<p class=MsoListParagraphCxSpFirst><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>Obs.: em campo, <b>o jumper do
+circuito deve estar na posição sleep</b>:</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'><img width=507 height=255
+id="Imagem 1" src="help_arquivos/image012.png"></span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>É necessário retirar o conector do
+sensor 1 para ter acesso ao jumper.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>Não se esqueça de reconectar o
+conector do sensor 1.</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>Épsilon Automação LTDA. CNPJ:
+40.706.215/0001-47 </span></p>
+
+<p class=MsoListParagraphCxSpMiddle><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>Telefone: (31) 98836-4880</span></p>
+
+<p class=MsoListParagraphCxSpLast><span style='font-size:12.0pt;line-height:
+115%;font-family:"Palatino Linotype",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>Épsilon Automação LTDA. CNPJ: 40.706.215/0001-47 </span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>Rua Arthur Versiani Machado, 600, Lagoa, Ouro Preto,
+MG - 35400-000</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Palatino Linotype",serif'>Telefone: (31) 98836-4880</span></p>
+
+</div>
+
+</body>
+
+</html>
